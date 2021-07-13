@@ -1,9 +1,8 @@
 # 👋 Hi there! I'm Favour Olukayode
 ### I am a developer who is looking to solve complex problems and is passionate about how that is done and the impact from doing that.
 
-- 👨🏽‍💻 Currently changing the way delivery is done at Travella.io
-- 👨🏽‍💻 Building over-the-horizon applications at Across The Horizon Technologies Limited
-- 🌱 I’m currently learning nodejs.
+- 👨🏽‍💻 Building over-the-horizon applications at [Across The Horizon Technologies](https://athtgroup.com/)
+- 🌱 I’m currently learning nodejs and experimenting with Flutter Web.
 - 🤝 Open for collaborations in Mobile App Development with Flutter/Android.
 - ⚡ Fun fact: I do a little bit of UI design with Figma.
 - 📫 Please reach me on my email: nerosilva522@gmail.com
