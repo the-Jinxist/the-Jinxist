@@ -4,6 +4,7 @@
 - 👨🏽‍💻 Doing stuff at [Newwave Devs](https://newwavedevs.com)
 - 🌱 Contemplating getting into golang
 - 🤝 Open for collaborations in Mobile App Development with Flutter/Android.
+- 🤝 Check out my dart package that feature my most used flutter "re-usables" [here](https://github.com/the-Jinxist/neo-reusables). Please feel free to collaborate!
 - ⚡ Fun fact: I do a little bit of UI design with Figma.
 - 📫 Please reach me on my email: nerosilva522@gmail.com
 
