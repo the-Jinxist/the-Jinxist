@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Favour Olukayode
-### I am a developer who is looking to solve complex problems and is passionate about how that is done and the impact from doing that.
+### I am a developer who is looking to solve complex problems and making impact while doing that.
 
 - 👨🏽‍💻 Doing stuff at [Newwave Devs](https://newwavedevs.com)
 - 🌱 Contemplating getting into golang
