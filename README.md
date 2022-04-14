@@ -1,9 +1,9 @@
 # 👋 Hi there! I'm Favour Olukayode
 ### I am a developer who is looking to solve complex problems and making impact while doing that.
 
-- 👨🏽‍💻 Doing stuff at [Newwave Devs](https://newwavedevs.com)
-- 🌱 Contemplating getting into golang
-- 🤝 Open for collaborations in Mobile App Development with Flutter/Android.
+- 👨🏽‍💻 Doing stuff at [Newwave Devs](https://newwavedevs.com) and building [HeyFoods](https://www.heyfood.africa)
+- 🌱 Learing golang
+- 🤝 Open for collaborations.
 - 🤝 Check out my dart package that feature my most used flutter "re-usables" [here](https://github.com/the-Jinxist/neo-reusables). Please feel free to collaborate!
 - ⚡ Fun fact: I do a little bit of UI design with Figma.
 - 📫 Please reach me on my email: nerosilva522@gmail.com
