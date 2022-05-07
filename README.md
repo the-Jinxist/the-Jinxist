@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Favour Olukayode
 ### I am a developer who is looking to solve complex problems and making impact while doing that.
 
-- 👨🏽‍💻 Doing stuff at [Newwave Devs](https://newwavedevs.com) and building [HeyFoods](https://www.heyfood.africa)
+- 👨🏽‍💻 Doing stuff at [Newwave Devs](https://newwavedevs.com) and building [HeyFoods](https://www.heyfood.africa) and also [Eventsly](https://github.com/Eventsly)
 - 🌱 Learing golang
 - 🤝 Open for collaborations.
 - 🤝 Check out my dart package that feature my most used flutter "re-usables" [here](https://github.com/the-Jinxist/neo-reusables). Please feel free to collaborate!
