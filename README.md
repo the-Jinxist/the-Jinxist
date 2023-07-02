@@ -1,11 +1,10 @@
 # 👋 Hi there! I'm Favour Olukayode
-### I am a developer who is looking to solve complex problems and making impact while doing that.
+### I am a developer looking to solve complex problems and make an impact.
 
-- 👨🏽‍💻 Doing stuff at [Newwave Devs](https://newwavedevs.com) and also [Eventsly](https://github.com/Eventsly)
-- 🌱 Learing golang
+- 👨🏽‍💻 Doing stuff at Flutter stuff at [Newwave Devs](https://newwavedevs.com), Golang stuff at [Busha](https://www.busha.co/)
 - 🤝 Open for collaborations.
-- 🤝 Check out my dart package that feature my most used flutter "re-usables" [here](https://github.com/the-Jinxist/neo-reusables). Please feel free to collaborate!
-- ⚡ Fun fact: I do a little bit of UI design with Figma.
+- 🤝 Check out my dart package that features my most used flutter "reusables" [here](https://github.com/the-Jinxist/neo-reusables). Please feel free to collaborate!
+- ⚡ Fun fact: I do some UI design with Figma.
 - 📫 Please reach me on my email: nerosilva522@gmail.com
 
 ## <h3 align="left">Languages and Tools:</h3>
