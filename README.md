@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Favour Olukayode
-### I am a developer looking to solve complex problems and make an impact.
+## I am a developer looking to solve complex problems and make an impact.
 
 - 👨🏽‍💻 Doing stuff at Flutter stuff at [Newwave Devs](https://newwavedevs.com), Golang stuff at [Busha](https://www.busha.co/)
 - 🤝 Open for collaborations.
