@@ -3,20 +3,24 @@
 
 - 👨🏽‍💻 Doing stuff at Flutter stuff at [Newwave Devs](https://newwavedevs.com), Golang stuff at [Busha](https://www.busha.co/)
 - 🤝 Open for collaborations.
-- 🤝 Check out my dart package that features my most used flutter "reusables" [here](https://github.com/the-Jinxist/neo-reusables). Please feel free to collaborate!
+- 🤝 Flutter package featuring my reusables: [here](https://github.com/the-Jinxist/neo-reusables). Please feel free to collaborate!
+- 🤝 Flutter package featuring the null-safe kenburns effect: [here](https://github.com/the-Jinxist/flutter_kenburns_nullsafety)
 - ⚡ Fun fact: I do some UI design with Figma.
 - 📫 Please reach me on my email: nerosilva522@gmail.com
 
 ## <h3 align="left">Languages and Tools:</h3>
-* <img align="center" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="dart" width="40" height="30"/> Java
+* <img align="center" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="30"/> Java
 
-* <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="dart" width="40" height="30"/> Kotlin
+* <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="30"/> Kotlin
 
 * <img align="center" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="30"/> Dart
 
 * <img align="center" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="30"/> Flutter
 
-* <img align="center" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="flutter" width="40" height="30"/> Android
+* <img align="center" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="30"/> Android
+
+* <img align="center" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" width="40" height="30"/> Golang
+
 -------------------------------------------------------------------------------------------------------
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-Jinxist&show_icons=true&locale=en&layout=compact" alt="the-Jinxist" />
