@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Favour Olukayode
 ## I am a developer looking to solve complex problems and make an impact.
 
-- 👨🏽‍💻 Doing stuff at Flutter stuff at [Moniepoint](https://moniepoint.com/).
+- 👨🏽‍💻 Doing Flutter stuff at [Moniepoint](https://moniepoint.com/).
 - 🤝 Open for collaborations, especially with Golang projects
 - 🤝 Flutter package featuring my reusables: [here](https://github.com/the-Jinxist/neo-reusables). Please feel free to collaborate!
 - 🤝 Flutter package featuring the null-safe Kenburns effect: [here](https://github.com/the-Jinxist/flutter_kenburns_nullsafety)
