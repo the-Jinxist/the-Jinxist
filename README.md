@@ -5,7 +5,7 @@
 ---
 
 ### 🛠 Tech Stack
-`Dart` `Flutter` `Go` `Kotlin` `Java` `Android` `Figma`
+`Dart` `Flutter` `Golang` `Kotlin` `Java` `Android`
 
 ### 🚀 Projects & Contributions
 * **[super_snake](https://github.com/the-Jinxist/super_snake):** A classic Snake game built with Flutter.
