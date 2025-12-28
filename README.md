@@ -8,10 +8,12 @@
 `Dart` `Flutter` `Golang` `Kotlin` `Java` `Android`
 
 ### 🚀 Projects & Contributions
-* **[super_snake](https://github.com/the-Jinxist/super_snake):** A classic Snake game built with Flutter.
-* **[golang-interpreter](https://github.com/the-Jinxist/golang-interpreter):** An interpreter for the Monkey programming language, built in Go.
+* **[super_snake](https://github.com/the-Jinxist/super_snake):** A classic Snake game built with Golang.
+* **[golang-interpreter](https://github.com/the-Jinxist/golang-interpreter):** An interpreter for the Monkey (made up) programming language, built in Go.
 * **[flutter_kenburns_nullsafety](https://github.com/the-Jinxist/flutter_kenburns_nullsafety):** Null-safe Kenburns effect for Flutter.
-* **Collaborations:** Actively seeking **Golang** and Flutter opportunities.
+* **[golang_backend_masterclass](https://github.com/the-Jinxist/golang-backend-masterclass):** Trying to learn how to properly write backend applications using Golang
+
+* **Collaborations:** Actively seeking **Golang** and **Flutter** opportunities.
 
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/favour-olukayode/) • [Twitter](https://twitter.com/neo_femo) • [Email](mailto:nerosilva522@gmail.com)
