@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Favour Olukayode
 
-**Flutter Developer @ Moniepoint** | Solving complex problems with Dart & Go.
+**Mobile Engineer @ Moniepoint** | Solving complex problems with Dart & Go.
 
 ---
 
