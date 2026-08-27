@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Favour Olukayode
 
-**Mobile Engineer @ Moniepoint** | Solving complex problems with Dart & Go.
+**Software Engineer @ Busha** | Solving complex problems with Dart & Go.
 
 ---
 
